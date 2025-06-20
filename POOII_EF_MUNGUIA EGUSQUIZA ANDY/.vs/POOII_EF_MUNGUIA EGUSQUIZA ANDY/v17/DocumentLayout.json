@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JEFERSON\\Videos\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B45AE7BC-85D9-48AF-BB3D-3A4ED00E6657}|POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY.csproj|c:\\users\\jeferson\\videos\\pooii_ef_munguia egusquiza andy\\pooii_ef_munguia egusquiza andy\\pooii_ef_munguia egusquiza andy\\views\\alumno\\createalumno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B45AE7BC-85D9-48AF-BB3D-3A4ED00E6657}|POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY.csproj|solutionrelative:pooii_ef_munguia egusquiza andy\\views\\alumno\\createalumno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45AE7BC-85D9-48AF-BB3D-3A4ED00E6657}|POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY.csproj|c:\\users\\jeferson\\videos\\pooii_ef_munguia egusquiza andy\\pooii_ef_munguia egusquiza andy\\pooii_ef_munguia egusquiza andy\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B45AE7BC-85D9-48AF-BB3D-3A4ED00E6657}|POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY.csproj|solutionrelative:pooii_ef_munguia egusquiza andy\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425FCB07-AA08-4E9E-960E-1CF081A4022A}|Datos\\Datos.csproj|c:\\users\\jeferson\\videos\\pooii_ef_munguia egusquiza andy\\pooii_ef_munguia egusquiza andy\\datos\\alumno_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425FCB07-AA08-4E9E-960E-1CF081A4022A}|Datos\\Datos.csproj|solutionrelative:datos\\alumno_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425FCB07-AA08-4E9E-960E-1CF081A4022A}|Datos\\Datos.csproj|c:\\users\\jeferson\\videos\\pooii_ef_munguia egusquiza andy\\pooii_ef_munguia egusquiza andy\\datos\\especialidad_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425FCB07-AA08-4E9E-960E-1CF081A4022A}|Datos\\Datos.csproj|solutionrelative:datos\\especialidad_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E07B13-0C3B-4823-8EC9-A56B3B766A29}|Entidad\\Entidad.csproj|c:\\users\\jeferson\\videos\\pooii_ef_munguia egusquiza andy\\pooii_ef_munguia egusquiza andy\\entidad\\especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E07B13-0C3B-4823-8EC9-A56B3B766A29}|Entidad\\Entidad.csproj|solutionrelative:entidad\\especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45AE7BC-85D9-48AF-BB3D-3A4ED00E6657}|POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY.csproj|c:\\users\\jeferson\\videos\\pooii_ef_munguia egusquiza andy\\pooii_ef_munguia egusquiza andy\\pooii_ef_munguia egusquiza andy\\views\\alumno\\editalumno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B45AE7BC-85D9-48AF-BB3D-3A4ED00E6657}|POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY.csproj|solutionrelative:pooii_ef_munguia egusquiza andy\\views\\alumno\\editalumno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45AE7BC-85D9-48AF-BB3D-3A4ED00E6657}|POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY.csproj|c:\\users\\jeferson\\videos\\pooii_ef_munguia egusquiza andy\\pooii_ef_munguia egusquiza andy\\pooii_ef_munguia egusquiza andy\\views\\alumno\\indexalumno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B45AE7BC-85D9-48AF-BB3D-3A4ED00E6657}|POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY.csproj|solutionrelative:pooii_ef_munguia egusquiza andy\\views\\alumno\\indexalumno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E07B13-0C3B-4823-8EC9-A56B3B766A29}|Entidad\\Entidad.csproj|c:\\users\\jeferson\\videos\\pooii_ef_munguia egusquiza andy\\pooii_ef_munguia egusquiza andy\\entidad\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E07B13-0C3B-4823-8EC9-A56B3B766A29}|Entidad\\Entidad.csproj|solutionrelative:entidad\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45AE7BC-85D9-48AF-BB3D-3A4ED00E6657}|POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY.csproj|c:\\users\\jeferson\\videos\\pooii_ef_munguia egusquiza andy\\pooii_ef_munguia egusquiza andy\\pooii_ef_munguia egusquiza andy\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45AE7BC-85D9-48AF-BB3D-3A4ED00E6657}|POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY.csproj|solutionrelative:pooii_ef_munguia egusquiza andy\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF725130-0DA0-418E-ABD3-3D09E7E937DB}|Negocio\\Negocio.csproj|c:\\users\\jeferson\\videos\\pooii_ef_munguia egusquiza andy\\pooii_ef_munguia egusquiza andy\\negocio\\especialidad_neg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF725130-0DA0-418E-ABD3-3D09E7E937DB}|Negocio\\Negocio.csproj|solutionrelative:negocio\\especialidad_neg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF725130-0DA0-418E-ABD3-3D09E7E937DB}|Negocio\\Negocio.csproj|c:\\users\\jeferson\\videos\\pooii_ef_munguia egusquiza andy\\pooii_ef_munguia egusquiza andy\\negocio\\alumno_neg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF725130-0DA0-418E-ABD3-3D09E7E937DB}|Negocio\\Negocio.csproj|solutionrelative:negocio\\alumno_neg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425FCB07-AA08-4E9E-960E-1CF081A4022A}|Datos\\Datos.csproj|c:\\users\\jeferson\\videos\\pooii_ef_munguia egusquiza andy\\pooii_ef_munguia egusquiza andy\\datos\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425FCB07-AA08-4E9E-960E-1CF081A4022A}|Datos\\Datos.csproj|solutionrelative:datos\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ESPECIALIDAD_DAO.cs",
+              "DocumentMoniker": "C:\\Users\\JEFERSON\\Videos\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Datos\\ESPECIALIDAD_DAO.cs",
+              "RelativeDocumentMoniker": "Datos\\ESPECIALIDAD_DAO.cs",
+              "ToolTip": "C:\\Users\\JEFERSON\\Videos\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Datos\\ESPECIALIDAD_DAO.cs",
+              "RelativeToolTip": "Datos\\ESPECIALIDAD_DAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:14:42.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ALUMNO_DAO.cs",
+              "DocumentMoniker": "C:\\Users\\JEFERSON\\Videos\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Datos\\ALUMNO_DAO.cs",
+              "RelativeDocumentMoniker": "Datos\\ALUMNO_DAO.cs",
+              "ToolTip": "C:\\Users\\JEFERSON\\Videos\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Datos\\ALUMNO_DAO.cs",
+              "RelativeToolTip": "Datos\\ALUMNO_DAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:14:55.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditALUMNO.cshtml",
+              "DocumentMoniker": "C:\\Users\\JEFERSON\\Videos\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Views\\ALUMNO\\EditALUMNO.cshtml",
+              "RelativeDocumentMoniker": "POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Views\\ALUMNO\\EditALUMNO.cshtml",
+              "ToolTip": "C:\\Users\\JEFERSON\\Videos\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Views\\ALUMNO\\EditALUMNO.cshtml",
+              "RelativeToolTip": "POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Views\\ALUMNO\\EditALUMNO.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAE0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T14:01:40.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ESPECIALIDAD.cs",
+              "DocumentMoniker": "C:\\Users\\JEFERSON\\Videos\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Entidad\\ESPECIALIDAD.cs",
+              "RelativeDocumentMoniker": "Entidad\\ESPECIALIDAD.cs",
+              "ToolTip": "C:\\Users\\JEFERSON\\Videos\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Entidad\\ESPECIALIDAD.cs",
+              "RelativeToolTip": "Entidad\\ESPECIALIDAD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:53:49.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\JEFERSON\\Videos\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Web.config",
+              "RelativeDocumentMoniker": "POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Web.config",
+              "ToolTip": "C:\\Users\\JEFERSON\\Videos\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Web.config",
+              "RelativeToolTip": "POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-06T12:38:45.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateALUMNO.cshtml",
+              "DocumentMoniker": "C:\\Users\\JEFERSON\\Videos\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Views\\ALUMNO\\CreateALUMNO.cshtml",
+              "RelativeDocumentMoniker": "POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Views\\ALUMNO\\CreateALUMNO.cshtml",
+              "ToolTip": "C:\\Users\\JEFERSON\\Videos\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Views\\ALUMNO\\CreateALUMNO.cshtml",
+              "RelativeToolTip": "POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Views\\ALUMNO\\CreateALUMNO.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T14:25:20.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IndexALUMNO.cshtml",
+              "DocumentMoniker": "C:\\Users\\JEFERSON\\Videos\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Views\\ALUMNO\\IndexALUMNO.cshtml",
+              "RelativeDocumentMoniker": "POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Views\\ALUMNO\\IndexALUMNO.cshtml",
+              "ToolTip": "C:\\Users\\JEFERSON\\Videos\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Views\\ALUMNO\\IndexALUMNO.cshtml",
+              "RelativeToolTip": "POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Views\\ALUMNO\\IndexALUMNO.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T13:47:35.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ALUMNOController.cs",
+              "DocumentMoniker": "C:\\Users\\JEFERSON\\Videos\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Controllers\\ALUMNOController.cs",
+              "RelativeDocumentMoniker": "POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Controllers\\ALUMNOController.cs",
+              "ToolTip": "C:\\Users\\JEFERSON\\Videos\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Controllers\\ALUMNOController.cs",
+              "RelativeToolTip": "POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Controllers\\ALUMNOController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwCIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:36:04.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ALUMNO.cs",
+              "DocumentMoniker": "C:\\Users\\JEFERSON\\Videos\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Entidad\\ALUMNO.cs",
+              "RelativeDocumentMoniker": "Entidad\\ALUMNO.cs",
+              "ToolTip": "C:\\Users\\JEFERSON\\Videos\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Entidad\\ALUMNO.cs",
+              "RelativeToolTip": "Entidad\\ALUMNO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:53:36.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ALUMNO_NEG.cs",
+              "DocumentMoniker": "C:\\Users\\JEFERSON\\Videos\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Negocio\\ALUMNO_NEG.cs",
+              "RelativeDocumentMoniker": "Negocio\\ALUMNO_NEG.cs",
+              "ToolTip": "C:\\Users\\JEFERSON\\Videos\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Negocio\\ALUMNO_NEG.cs",
+              "RelativeToolTip": "Negocio\\ALUMNO_NEG.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:27:26.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ESPECIALIDAD_NEG.cs",
+              "DocumentMoniker": "C:\\Users\\JEFERSON\\Videos\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Negocio\\ESPECIALIDAD_NEG.cs",
+              "RelativeDocumentMoniker": "Negocio\\ESPECIALIDAD_NEG.cs",
+              "ToolTip": "C:\\Users\\JEFERSON\\Videos\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Negocio\\ESPECIALIDAD_NEG.cs",
+              "RelativeToolTip": "Negocio\\ESPECIALIDAD_NEG.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:27:07.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "C:\\Users\\JEFERSON\\Videos\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Datos\\DBHelper.cs",
+              "RelativeDocumentMoniker": "Datos\\DBHelper.cs",
+              "ToolTip": "C:\\Users\\JEFERSON\\Videos\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\POOII_EF_MUNGUIA EGUSQUIZA ANDY\\Datos\\DBHelper.cs",
+              "RelativeToolTip": "Datos\\DBHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:58:55.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
